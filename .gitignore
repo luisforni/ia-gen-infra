@@ -1,0 +1,13 @@
+# Archivos de entorno
+.env
+.env.*
+!.env.example
+
+# Docker
+.dockerignore
+
+# Misc
+.DS_Store
+*.log
+.vscode/
+.idea/
